@@ -33,5 +33,5 @@ Here are some of my projects showcasing AI and data science work:
 ---
 
 ## 🌟 Motto
-*"Building intelligent systems that make life easier and solve real-world problems."*
+*Building intelligent systems that make life easier and solve real-world problems.*
 
